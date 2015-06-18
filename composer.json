@@ -1,0 +1,21 @@
+{
+    "name": "klsandbox/find-duplicate-tags",
+    "description": "",
+    "authors": [
+        {
+            "name": "Ibrahim Abdul Rahim",
+            "email": "mrwaim@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.0.*",
+        "symfony/finder": "^2.7"
+    },
+    "autoload": {
+        "psr-0": {
+            "Klsandbox\\FindDuplicateTags": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
